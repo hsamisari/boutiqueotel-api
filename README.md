@@ -1,2 +1,2 @@
 # boutiqueotel-api
-hotel management application API
+Open source (Apache 2 license) hotel management application API
